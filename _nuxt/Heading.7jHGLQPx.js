@@ -1,0 +1,1 @@
+import{g as s,o as a,c as t,l as o,n as r}from"./entry.i5Pa317r.js";const c=s({__name:"Heading",props:{size:{default:"3xl"}},setup(n){return(e,l)=>(a(),t("div",{class:r(`text-${e.size} break-words text-wrap mb-6`)},[o(e.$slots,"default")],2))}});export{c as default};

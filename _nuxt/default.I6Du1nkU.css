@@ -1,0 +1,1 @@
+.slide-in-enter-active,.slide-in-leave-active{transition:all .25s ease-out}.slide-in-enter-from{opacity:0;transform:translateY(30px)}.slide-in-leave-to{opacity:0;transform:translateY(-30px)}.dark body{background-color:#0f172a}.dark light{background-color:#f1f5f9}

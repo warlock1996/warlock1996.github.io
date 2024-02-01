@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,l as o}from"./entry.i5Pa317r.js";const r={},c={class:"capitalize text-lg mb-2 font-primary text-black dark:text-slate-50"};function l(e,n){return s(),a("div",c,[o(e.$slots,"default")])}const d=t(r,[["render",l]]);export{d as default};

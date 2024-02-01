@@ -1,0 +1,1 @@
+import{_ as o,o as r,c as s,l as t}from"./entry.i5Pa317r.js";const n={},c={class:"flex gap-1 leading-normal mb-5 text-blue-400 underline cursor-pointer"};function a(e,l){return r(),s("div",c,[t(e.$slots,"default")])}const d=o(n,[["render",a]]);export{d as default};

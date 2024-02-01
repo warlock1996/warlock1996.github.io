@@ -1,0 +1,1 @@
+import{g as t,l}from"./entry.i5Pa317r.js";const u=t({__name:"ProseCode",props:{code:{type:String,default:""},language:{type:String,default:null},filename:{type:String,default:null},highlights:{type:Array,default:()=>[]},meta:{type:String,default:null}},setup(a){return(e,n)=>l(e.$slots,"default")}});export{u as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,l as r}from"./entry.i5Pa317r.js";const a={},c={class:"text-2xl mb-2 font-primary text-black dark:text-slate-50"};function n(e,l){return s(),o("div",c,[r(e.$slots,"default")])}const d=t(a,[["render",n]]);export{d as default};

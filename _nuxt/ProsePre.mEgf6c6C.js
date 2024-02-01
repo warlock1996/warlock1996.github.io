@@ -1,0 +1,1 @@
+import{_ as s,o,c as r,a as e,l as a}from"./entry.i5Pa317r.js";const c={},l={class:"relative bg-slate-50 text-black dark:bg-slate-800 dark:text-white p-4 my-2"},n=e("div",{class:"absolute top-0 right-0 p-2 cursor-pointer"}," copy ",-1);function d(t,_){return o(),r("div",l,[n,e("pre",null,[a(t.$slots,"default")])])}const p=s(c,[["render",d]]);export{p as default};
